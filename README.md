@@ -23,7 +23,5 @@ A beginner-friendly command-line expense tracker built with Python.
 2. Download or clone this repository.
 3. Open Terminal in the project folder.
 4. Run:
-
-   ```bash
    python3 main.py
-ls
+
