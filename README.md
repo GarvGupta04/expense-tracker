@@ -27,7 +27,3 @@ A beginner-friendly command-line expense tracker built with Python.
    ```bash
    python3 main.py
 ls
-
-
-ls
-
