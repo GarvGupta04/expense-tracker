@@ -25,3 +25,11 @@ A beginner-friendly command-line expense tracker built with Python.
 4. Run:
    python3 main.py
 
+## 👨‍💻 Author
+
+**Garv Gupta**
+
+B.Tech CSE — Data Science  
+VIT Vellore
+
+- GitHub: [GarvGupta04](https://github.com/GarvGupta04)
